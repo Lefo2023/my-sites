@@ -1,0 +1,55 @@
+header nav {
+    width: 1920px;
+    height: 50px;
+    background: linear-gradient(to right, rgb(118, 118, 185), pink);
+}
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+.col-4 { 
+    padding-top: 25px;
+    border-radius: 10px;
+    
+}
+.col-4 img { 
+    padding-top: 25px;
+    border-radius: 50px;
+    
+}
+.col-8 { 
+    padding-top: 25px;
+    
+}
+footer {
+    padding-top: 50px;
+}
+.d-block {
+    height: 250px;
+    padding-left:750px;
+
+}
+main {
+    padding: 50px;
+}
+.action button {
+    padding-top:50px;
+}
+.mb-3 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.mb-3 button {
+    margin-top: 20px;
+
+}
+.footer-info  {
+    width: 1920px;
+    height: 160px;
+    background: linear-gradient(to right, rgb(118, 118, 185), pink);
+
+}
+.footer-info p { padding-left: 20px;
+    padding-top: 3px;
+} 
+
